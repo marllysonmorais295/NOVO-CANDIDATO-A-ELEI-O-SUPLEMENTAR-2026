@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+}h1 {
+    color: darkblue;
+}h1 {
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+}h1 {
+    text-align: center;
+}h1 {
+    margin: 30px;
+}img {
+    border-radius: 15px;
+}img {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}button {
+    background-color: darkblue;
+    color: white;
+    transition: 0.3s;
+}button {
+    padding: 10px 20px;
+}button {
+    border-radius: 8px;
+}button {
+    cursor: pointer;
+}button:hover {padding: 10px;
+    background-color: blue;
+}.destaque { font-size: 28px;
+    color: red;
+}
